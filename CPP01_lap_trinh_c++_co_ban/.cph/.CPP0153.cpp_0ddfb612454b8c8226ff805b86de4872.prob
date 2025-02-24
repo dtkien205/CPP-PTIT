@@ -1,0 +1,1 @@
+{"name":"Local: CPP0153","url":"d:\\code\\code ptit\\c++\\CPP0153.cpp","tests":[{"id":1723480211446,"input":"2\n10 55\n1   11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\code ptit\\c++\\CPP0153.cpp","group":"local","local":true}

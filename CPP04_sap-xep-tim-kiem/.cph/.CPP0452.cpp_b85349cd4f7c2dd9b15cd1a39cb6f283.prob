@@ -1,0 +1,1 @@
+{"name":"Local: CPP0452","url":"d:\\codee\\code\\code ptit\\c++\\CPP04_sap-xep-tim-kiem\\CPP0452.cpp","tests":[{"id":1724299039850,"input":"2\n1 1 1\n1\n2\n3\n1 2 2\n1\n1 2\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codee\\code\\code ptit\\c++\\CPP04_sap-xep-tim-kiem\\CPP0452.cpp","group":"local","local":true}

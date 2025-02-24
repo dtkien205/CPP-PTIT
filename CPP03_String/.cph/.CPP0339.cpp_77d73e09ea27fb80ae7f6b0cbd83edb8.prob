@@ -1,0 +1,1 @@
+{"name":"Local: CPP0339","url":"d:\\codee\\code\\code ptit\\c++\\CPP03_String\\CPP0339.cpp","tests":[{"id":1724164841926,"input":"2\nabcab\naba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codee\\code\\code ptit\\c++\\CPP03_String\\CPP0339.cpp","group":"local","local":true}

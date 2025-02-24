@@ -1,0 +1,1 @@
+{"name":"Local: CPP0711","url":"d:\\codee\\code\\code ptit\\c++\\CPP07\\CPP0711.cpp","tests":[{"id":1726472738795,"input":"2\n2\n3","output":"00 01 10 11\n000 001 010 011 100 101 110 111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codee\\code\\code ptit\\c++\\CPP07\\CPP0711.cpp","group":"local","local":true}
